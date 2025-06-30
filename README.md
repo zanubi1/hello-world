@@ -1,2 +1,2 @@
 # hello-world
-This is just an example to get started
+This repo contains experiments, useful scripts, and other random stuff
